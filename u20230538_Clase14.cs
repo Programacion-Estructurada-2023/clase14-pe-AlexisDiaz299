@@ -32,7 +32,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
                         {
                             suma += i;
                         }
-                        Console.WriteLine("La suma de los numeros pares hasta el numero 75 es: " + suma); 
+                        Console.WriteLine("\nLa suma de los numeros pares hasta el numero 75 es: " + suma); 
 
                         break;
                     case 2: //Lista de 9 numeros enteros encontrando el numero mas grande.
@@ -51,11 +51,11 @@ namespace MyApp// Note: actual namespace depends on the project name.
                                 numeroMayor = numero; 
                             }
                         } 
-                        Console.WriteLine("El numero mas grande en la lista es: " + numeroMayor);
+                        Console.WriteLine("\nEl numero mas grande en la lista es: " + numeroMayor);
         
                         break;
                     case 3://Tabla de multiplicar un numero n, del 1 al 12 y sumarle 2 al resultado.
-                        Console.WriteLine("Ingrese un numero para elaborar su tabla de multiplicacion:");
+                        Console.WriteLine("\nIngrese un numero para elaborar su tabla de multiplicacion:");
                         int numeroMulti=Convert.ToInt32(Console.ReadLine());
 
                         for (int i = 1; i <= 12 ; i++)
@@ -70,14 +70,14 @@ namespace MyApp// Note: actual namespace depends on the project name.
                         break;            
                     default:
                        Console.ForegroundColor= ConsoleColor.Red; 
-                        Console.WriteLine("Opcion no valida. Por favor, seleccione una opcion del (1-4)");
+                        Console.WriteLine("\nOpcion no valida. Por favor, seleccione una opcion del (1-4)");
                         break;
                    }                                   
                 }         
                 else
                 {
                     Console.ForegroundColor= ConsoleColor.Red;
-                    Console.WriteLine("Entrada no valida. Debe ingresar una opcion valida (1-4).");
+                    Console.WriteLine("\nEntrada no valida. Debe ingresar una opcion valida (1-4).");
                 }
                     Console.ResetColor();
           }     while (opciones !=4);          
