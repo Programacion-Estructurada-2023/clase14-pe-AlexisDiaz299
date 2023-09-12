@@ -1,0 +1,15 @@
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\bin\Debug\net7.0\clase14-pe-AlexisDiaz299.exe
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\bin\Debug\net7.0\clase14-pe-AlexisDiaz299.deps.json
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\bin\Debug\net7.0\clase14-pe-AlexisDiaz299.runtimeconfig.json
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\bin\Debug\net7.0\clase14-pe-AlexisDiaz299.dll
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\bin\Debug\net7.0\clase14-pe-AlexisDiaz299.pdb
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\clase14-pe-AlexisDiaz299.csproj.AssemblyReference.cache
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\clase14-pe-AlexisDiaz299.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\clase14-pe-AlexisDiaz299.AssemblyInfoInputs.cache
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\clase14-pe-AlexisDiaz299.AssemblyInfo.cs
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\clase14-pe-AlexisDiaz299.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\clase14-pe-AlexisDiaz299.dll
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\refint\clase14-pe-AlexisDiaz299.dll
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\clase14-pe-AlexisDiaz299.pdb
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\clase14-pe-AlexisDiaz299.genruntimeconfig.cache
+C:\Users\Alexis\Desktop\PROGRAMACION\Tareas programacion\Clase 14\clase14-pe-AlexisDiaz299\obj\Debug\net7.0\ref\clase14-pe-AlexisDiaz299.dll
